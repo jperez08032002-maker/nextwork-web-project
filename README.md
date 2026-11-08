@@ -14,6 +14,8 @@ Welcome to this project combining Java web app development and AWS CI/CD tools!
 <br>
 
 ## Introduction
+I am doing this project to grow and develop my skills in the world of cloud and coding.
+
 This project is used for an introduction to creating and deploying a Java-based web app using AWS, especially their CI/CD tools.
 
 The deployment pipeline I'm building around the Java web app in this repository is invisible to the end-user, but makes a big impact by automating the software release processes.
@@ -54,7 +56,7 @@ To get this project up and running on your local machine, follow these steps:
 
 ## Contact
 If you have any questions or comments about the NextWork Web Project, please contact:
-John Perez - [Your Email](mailto:Jperez08032002@gmail.com)
+John Perez - [Your Email] (Jperez08032002@gmail.com)
 
 <br>
 
